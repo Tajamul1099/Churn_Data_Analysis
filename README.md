@@ -114,6 +114,7 @@ The final deliverable: an interactive dashboard (`Churn_Data_Analysis.pbix`) let
 | **442** | **105** | **335** | **23.%** | **₹2.19 Cr** | **₹54.5 L (22%)** |
 
 The single most useful insight the dashboard surfaces: **Two-Year contracts churn more than Month-to-Month customers** — the opposite of what most retention strategies assume, meaning long-term contracts alone aren't a retention lever.
+
 <img width="581" height="328" alt="Churn_analysis_dashboard" src="https://github.com/user-attachments/assets/36539193-1f2d-4a67-9ed5-c840686b95e8" />
 <img width="583" height="329" alt="Churn_Analysis_insights" src="https://github.com/user-attachments/assets/4303d527-a41f-4873-9d13-ffa099944b0d" />
 
